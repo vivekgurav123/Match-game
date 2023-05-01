@@ -1,0 +1,10 @@
+.img-item img {
+  width: 100px;
+  height: 100px;
+}
+.img-item button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
